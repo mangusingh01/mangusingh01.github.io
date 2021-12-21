@@ -14,6 +14,8 @@
 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
 
+![](/images/financial-arrow-graphs-on-white-260nw-1551257789.jpg)
+
 ### Project 2: Flash Card
 
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -21,6 +23,8 @@
 - when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
+
+![](/images/financial-arrow-graphs-on-white-260nw-1551257789.jpg)
 
 ### Project 3: Car price prediction
 
