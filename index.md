@@ -6,6 +6,11 @@
 - NIT Calicut
 - IIT
 
+## Experrience 
+
+- Amazon(2019-2020)
+- Worked as intern.
+
 ### Project 1: [House price prediction](https://github.com/mangusingh01/House_price_prediction)
 
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
